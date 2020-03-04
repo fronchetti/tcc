@@ -1,0 +1,134 @@
+project_name,pull_total_mean,pull_opened_mean,pull_closed_mean,pull_merged_mean,commits_mean,stars_mean,forks_mean,languages_count,has_readme,has_contributing,has_wiki,has_project_board,has_issue_tracker,newcomers_mean,language,age,domain,owner,type
+linux,6,3,4,1,4653,615,215,16,1,0,0,1,0,18538,C,6,Sistema,User,Receptive
+netdata,47,1,4,44,133,802,91,13,1,0,1,1,1,2.0,C,4,Ferramenta,Organization,Receptive
+git,5,3,4,1,325,171,90,17,1,0,0,0,0,1727,C,9,Ferramenta,Organization,Receptive
+php-src,39,3,30,8,469,169,57,19,1,1,0,0,0,3077,C,6,Sistema,Organization,Receptive
+grpc,231,13,32,191,785,336,74,17,1,1,1,1,1,2727,C,3,Framework ou Biblioteca (Não-web),Organization,Receptive
+FFmpeg,4,1,4,1,442,107,43,10,1,1,0,1,0,2071,C,6,Aplicação,Organization,Receptive
+libuv,23,2,15,7,48,200,37,9,1,1,1,1,1,1667,C,4,Ferramenta,Organization,Receptive
+obs-studio,19,5,9,10,102,150,35,9,0,0,1,1,0,2.5,C,4,Ferramenta,User,Receptive
+Arduino,14,2,6,7,46,84,57,13,1,1,1,1,1,1667,C,7,Framework ou Biblioteca (Não-web),Organization,Receptive
+nuklear,6,1,2,5,44,228,17,2,0,0,1,1,1,1.75,C,2,Framework ou Biblioteca (Não-web),User,Receptive
+memcached,3,1,4,1,12,65,19,9,1,1,1,1,1,3.0,C,8,Sistema,Organization,Receptive
+vscode,90,6,22,63,1045,1413,198,31,1,1,1,1,1,4692,TypeScript,2,Ferramenta,Organization,Receptive
+ionic,39,8,17,21,210,627,186,7,1,0,0,1,1,1714,TypeScript,4,Framework ou Biblioteca (Web),Organization,Receptive
+angular,195,18,114,76,233,757,187,6,1,1,0,1,1,4786,TypeScript,3,Framework ou Biblioteca (Web),Organization,Receptive
+ant-design,62,1,10,51,324,604,165,5,1,0,1,0,1,5.2,TypeScript,2,Framework ou Biblioteca (Web),Organization,Receptive
+angular-cli,80,5,31,49,58,446,95,4,1,1,1,1,1,4.0,TypeScript,2,Ferramenta,Organization,Receptive
+DefinitelyTyped,271,57,45,223,576,204,168,2,1,0,1,1,1,47.8,TypeScript,5,Documentação,Organization,Receptive
+material2,136,12,24,106,109,519,120,5,1,1,1,1,1,2.5,TypeScript,1,Framework ou Biblioteca (Web),Organization,Receptive
+chromeless,24,9,4,15,153,2628,111,2,1,1,1,1,1,4.0,TypeScript,0,Sem categoria,Organization,Receptive
+google-api-nodejs-client,5,1,2,4,14,100,14,1,1,0,0,1,1,1.6,TypeScript,4,Framework ou Biblioteca (Não-web),Organization,Receptive
+Babylon.js,43,1,3,39,152,105,24,12,0,0,0,1,1,2.5,TypeScript,4,Framework ou Biblioteca (Web),Organization,Receptive
+angular-seed,25,0,6,19,64,144,52,5,1,0,1,1,1,1571,TypeScript,2,Framework ou Biblioteca (Web),User,Receptive
+postgraphql,14,2,3,10,37,220,10,6,1,1,1,1,1,2.0,TypeScript,1,Framework ou Biblioteca (Não-web),Organization,Receptive
+apollo-client,55,2,11,43,188,202,19,3,1,1,0,1,1,2.4,TypeScript,1,Sem categoria,Organization,Receptive
+RxJava,48,1,8,40,86,481,83,3,1,1,1,1,1,1636,Java,4,Sistema,Organization,Receptive
+elasticsearch,146,7,50,118,314,275,114,10,0,1,0,1,1,3.25,Java,7,Ferramenta,Organization,Receptive
+okhttp,26,1,5,22,44,381,88,4,1,0,1,0,1,2.0,Java,5,Framework ou Biblioteca (Web),Organization,Receptive
+guava,6,2,5,0,45,529,127,3,1,1,1,1,1,2.0,Java,3,Framework ou Biblioteca (Não-web),Organization,Receptive
+butterknife,6,1,2,5,15,332,66,5,1,0,0,1,1,2.0,Java,4,Framework ou Biblioteca (Não-web),User,Receptive
+kotlin,19,3,12,6,496,270,25,12,0,0,0,0,0,1923,Java,5,Sistema,Organization,Receptive
+spring-boot,37,3,35,1,238,315,258,11,0,0,1,0,1,2583,Java,5,Ferramenta,Organization,Receptive
+zxing,3,1,2,2,28,217,93,3,1,0,1,0,1,2.0,Java,6,Framework ou Biblioteca (Não-web),Organization,Receptive
+RxAndroid,6,1,4,5,10,362,61,2,1,1,1,1,1,2.0,Java,3,Framework ou Biblioteca (Não-web),Organization,Receptive
+libgdx,38,2,10,27,142,201,86,21,1,0,1,1,1,2.6,Java,5,Framework ou Biblioteca (Não-web),Organization,Receptive
+netty,41,2,40,7,77,136,63,9,1,1,1,1,1,2222,Java,7,Ferramenta,Organization,Receptive
+fastjson,4,0,2,4,33,151,52,3,1,0,1,1,1,2.0,Java,6,Framework ou Biblioteca (Não-web),Organization,Receptive
+FiraCode,3,1,1,2,7,494,15,4,1,0,1,1,1,2.0,Clojure,3,Ferramenta,User,Receptive
+clojurescript,1,0,1,1,65,98,8,6,1,0,1,1,0,3333,Clojure,6,Ferramenta,Organization,Receptive
+spark,434,14,425,1,226,326,294,17,1,1,0,1,0,5857,Scala,3,Aplicação,Organization,Receptive
+playframework,69,2,14,55,117,133,45,7,1,1,0,0,1,1.9,Scala,6,Framework ou Biblioteca (Web),Organization,Receptive
+akka,76,3,9,70,205,73,25,5,1,1,0,1,1,2769,Scala,8,Sistema,Organization,Receptive
+finagle,4,2,4,2,67,71,13,9,1,1,0,0,1,1667,Scala,7,Ferramenta,Organization,Receptive
+lila,19,1,4,17,388,51,8,11,1,1,1,1,1,1714,Scala,5,Aplicação,User,Receptive
+gatling,9,1,2,9,98,42,9,7,1,1,0,0,1,1.75,Scala,6,Framework ou Biblioteca (Não-web),Organization,Receptive
+scala-native,30,4,5,25,56,176,10,7,1,0,0,1,1,1667,Scala,3,Ferramenta,Organization,Receptive
+httpie,3,1,2,2,16,464,30,4,0,0,0,1,1,2.0,Python,5,Ferramenta,User,Receptive
+youtube-dl,30,6,15,15,180,349,65,4,1,1,0,1,1,2333,Python,7,Aplicação,User,Receptive
+django,136,8,90,44,169,429,176,7,0,0,0,0,0,4286,Python,5,Framework ou Biblioteca (Web),Organization,Receptive
+requests,21,1,6,14,65,345,62,3,0,1,1,1,1,2.5,Python,6,Ferramenta,Organization,Receptive
+awesome-machine-learning,9,1,1,9,23,666,149,1,1,0,1,1,1,1909,Python,3,Documentação,User,Receptive
+ansible,239,31,64,160,481,382,128,11,1,1,0,1,1,19133,Python,5,Ferramenta,Organization,Receptive
+scrapy,20,3,5,14,57,247,66,4,0,1,1,1,1,2.4,Python,7,Framework ou Biblioteca (Não-web),Organization,Receptive
+scikit-learn,63,9,20,36,238,248,129,7,0,1,1,1,1,4533,Python,7,Framework ou Biblioteca (Não-web),Organization,Receptive
+models,42,10,11,27,58,1069,477,10,1,1,1,1,1,4667,Python,1,Documentação,Organization,Receptive
+certbot,62,2,12,49,162,560,50,10,0,1,0,1,1,2.0,Python,3,Ferramenta,Organization,Receptive
+keras,69,5,26,42,124,635,222,2,1,1,1,1,1,5143,Python,2,Framework ou Biblioteca (Não-web),User,Receptive
+incubator-superset,61,4,12,50,85,593,87,6,1,1,0,1,1,2182,Python,2,Ferramenta,Organization,Receptive
+CppCoreGuidelines,22,2,6,19,56,595,71,3,1,1,1,1,1,1.75,Python,2,Documentação,Organization,Receptive
+tornado,11,1,4,6,35,147,41,5,0,0,1,1,1,2.0,Python,8,Framework ou Biblioteca (Não-web),Organization,Receptive
+sentry,38,6,4,33,192,161,19,8,0,1,0,1,1,1.75,Python,7,Ferramenta,Organization,Receptive
+cpython,422,53,46,322,306,1641,320,18,0,0,0,0,0,6067,Python,0,Sem categoria,Organization,Receptive
+ipython,61,1,10,51,156,133,39,2,0,1,1,1,1,1.6,Python,7,Framework ou Biblioteca (Não-web),Organization,Receptive
+freeCodeCamp,121,4,36,85,230,3076,369,3,1,1,0,1,1,2.4,JavaScript,3,Documentação,Organization,Receptive
+bootstrap,106,6,57,48,217,1904,707,6,1,0,0,1,1,4462,JavaScript,6,Framework ou Biblioteca (Web),Organization,Receptive
+react,107,8,30,74,172,1080,266,10,1,1,1,1,1,3.6,JavaScript,4,Framework ou Biblioteca (Web),Organization,Receptive
+vue,19,3,7,13,119,999,216,5,1,0,0,1,1,2429,JavaScript,4,Framework ou Biblioteca (Web),Organization,Receptive
+javascript,15,1,6,10,25,850,173,1,1,0,1,1,1,2.0,JavaScript,5,Documentação,Organization,Receptive
+react-native,183,19,158,25,354,1738,398,17,1,1,1,1,1,10733,JavaScript,2,Framework ou Biblioteca (Web),Organization,Receptive
+node,261,13,218,35,179,1127,224,12,1,1,1,1,1,10.4,JavaScript,3,Sistema,Organization,Receptive
+meteor,30,1,20,11,274,554,71,12,1,0,1,1,1,2.0,JavaScript,5,Framework ou Biblioteca (Web),Organization,Receptive
+three.js,58,5,18,38,221,388,142,10,1,0,1,0,1,3714,JavaScript,7,Framework ou Biblioteca (Web),User,Receptive
+create-react-app,81,8,22,51,79,2314,362,5,1,1,1,1,1,4571,JavaScript,1,Framework ou Biblioteca (Web),Organization,Receptive
+redux,46,2,15,31,86,1180,265,3,1,1,0,1,1,3889,JavaScript,2,Framework ou Biblioteca (Web),Organization,Receptive
+moment,19,5,12,7,49,421,64,3,1,1,0,1,1,9667,JavaScript,6,Framework ou Biblioteca (Não-web),Organization,Receptive
+Chart.js,22,3,8,20,50,589,141,2,1,0,0,0,1,2.0,JavaScript,4,Framework ou Biblioteca (Web),Organization,Receptive
+webpack,27,3,6,21,68,573,79,5,1,1,1,1,1,3538,JavaScript,5,Framework ou Biblioteca (Web),Organization,Receptive
+materialize,31,5,17,10,90,783,113,3,1,1,1,1,1,2.2,JavaScript,3,Framework ou Biblioteca (Web),User,Receptive
+material-ui,99,3,25,74,155,783,145,4,1,1,1,0,1,3867,JavaScript,3,Framework ou Biblioteca (Web),Organization,Receptive
+pdfkit,2,1,2,2,8,46,6,4,1,0,1,1,1,2.0,CoffeeScript,6,Framework ou Biblioteca (Não-web),User,Receptive
+Chameleon,3,1,2,3,13,255,24,3,1,0,1,1,1,2.0,Objective-C,3,Framework ou Biblioteca (Não-web),User,Receptive
+purescript,30,2,4,25,75,82,6,7,1,1,1,1,1,1.6,Haskell,4,Ferramenta,Organization,Receptive
+stack,28,1,4,24,172,82,16,5,1,1,1,1,1,1571,Haskell,2,Sem categoria,Organization,Receptive
+Idris-dev,31,2,4,27,120,31,7,13,1,1,1,1,1,1909,Haskell,6,Sem categoria,Organization,Receptive
+ghc,3,1,3,1,187,23,5,27,1,0,0,1,0,1778,Haskell,6,Sem categoria,Organization,Receptive
+eta,8,1,1,8,80,82,6,11,1,0,0,1,1,2.0,Haskell,1,Sem categoria,Organization,Receptive
+duckling,12,1,12,0,26,145,19,1,1,1,1,1,1,2.9,Haskell,0,Sem categoria,Organization,Receptive
+moby,320,8,66,252,596,799,229,8,1,1,1,1,1,2667,Go,4,Sistema,Organization,Receptive
+go,2,0,2,0,295,950,126,16,1,1,1,0,1,7833,Go,3,Sem categoria,Organization,Receptive
+kubernetes,771,45,130,621,1384,676,234,11,1,1,1,1,1,10214,Go,3,Ferramenta,Organization,Receptive
+awesome-go,37,2,9,28,61,607,73,1,1,1,0,1,1,4786,Go,3,Documentação,User,Receptive
+hugo,32,2,25,14,71,387,52,3,1,1,0,1,1,2.3,Go,4,Framework ou Biblioteca (Não-web),Organization,Receptive
+build-web-application-with-golang,10,1,2,9,75,292,88,3,1,0,1,1,1,1778,Go,5,Documentação,User,Receptive
+grafana,39,6,11,27,191,395,64,10,1,0,1,1,1,3286,Go,4,Framework ou Biblioteca (Web),Organization,Receptive
+etcd,102,2,14,86,232,293,56,7,1,1,0,0,1,3.0,Go,4,Sistema,Organization,Receptive
+caddy,23,1,4,19,60,441,31,4,1,0,1,0,1,1923,Go,2,Sistema,User,Receptive
+beego,17,1,7,10,51,184,47,1,1,1,1,1,1,1.8,Go,5,Framework ou Biblioteca (Web),User,Receptive
+influxdb,76,3,14,61,228,240,34,6,1,1,1,1,1,1571,Go,4,Sistema,Organization,Receptive
+prometheus,33,2,4,32,68,216,33,7,1,1,1,1,1,2.5,Go,5,Ferramenta,Organization,Receptive
+cockroach,236,5,17,222,504,252,25,17,1,1,1,1,1,2111,Go,3,Sistema,Organization,Receptive
+drone,22,1,5,16,71,253,27,5,1,0,0,1,1,1.6,Go,3,Ferramenta,Organization,Receptive
+consul,35,2,5,29,137,237,42,8,1,0,0,0,1,1923,Go,4,Ferramenta,Organization,Receptive
+traefik,37,6,6,30,66,398,37,7,1,1,1,0,1,2.5,Go,2,Ferramenta,Organization,Receptive
+tidb,135,13,11,123,216,382,52,4,1,1,0,1,1,3111,Go,2,Sistema,Organization,Receptive
+terraform,191,10,28,157,494,238,87,6,1,0,0,0,1,3786,Go,3,Ferramenta,Organization,Receptive
+otp,20,2,11,14,280,63,16,24,1,1,1,1,0,1667,Erlang,8,Sistema,Organization,Receptive
+awesomo,9,2,0,8,46,489,24,1,1,1,0,1,1,3.0,Erlang,1,Documentação,User,Receptive
+MongooseIM,14,2,3,12,46,13,4,10,1,1,1,1,1,1.8,Erlang,6,Sem categoria,Organization,Receptive
+rails,234,12,73,154,416,324,128,6,1,1,0,1,1,5857,Ruby,9,Framework ou Biblioteca (Web),Organization,Receptive
+jekyll,33,2,11,29,91,288,63,9,0,0,1,1,1,2.3,Ruby,9,Aplicação,Organization,Receptive
+public-apis,22,1,3,20,65,1458,121,3,1,0,1,1,1,5154,Ruby,1,Sem categoria,User,Receptive
+discourse,84,2,17,66,436,399,98,5,1,1,1,0,0,1909,Ruby,4,Aplicação,Organization,Receptive
+gitlabhq,52,0,19,38,833,275,71,7,1,1,0,1,1,6583,Ruby,6,Ferramenta,Organization,Receptive
+fastlane,112,5,16,94,368,536,83,8,1,1,0,0,1,4357,Ruby,3,Ferramenta,Organization,Receptive
+vagrant,27,2,8,21,109,165,35,9,1,0,1,1,1,1917,Ruby,7,Ferramenta,User,Receptive
+awesome-react-native,16,2,2,15,37,479,56,4,1,1,1,1,1,3917,Ruby,2,Documentação,User,Receptive
+devdocs,3,1,3,1,46,296,19,5,1,1,1,0,1,1667,Ruby,4,Documentação,User,Receptive
+engineering-blogs,26,1,6,22,52,432,44,1,1,0,1,1,1,1.6,Ruby,2,Documentação,User,Receptive
+homebrew-cask,545,2,173,382,1019,190,85,2,1,1,0,1,1,15267,Ruby,5,Ferramenta,Organization,Receptive
+mastodon,228,10,32,189,251,584,155,5,1,1,0,1,1,3286,Ruby,1,Sem categoria,Organization,Receptive
+metasploit-framework,98,4,19,79,286,131,78,17,1,1,1,1,1,2583,Ruby,6,Ferramenta,Organization,Receptive
+spree,57,2,44,18,153,75,33,6,1,0,1,1,1,1818,Ruby,9,Framework ou Biblioteca (Web),Organization,Receptive
+brew,105,4,18,91,138,464,117,5,1,1,0,1,1,1786,Ruby,1,Ferramenta,Organization,Receptive
+bourbon,7,1,3,5,15,106,11,4,1,1,0,0,1,3.0,Ruby,6,Ferramenta,Organization,Receptive
+symfony,177,6,75,106,355,163,60,3,1,1,0,1,1,3357,PHP,7,Framework ou Biblioteca (Web),Organization,Receptive
+composer,29,1,8,21,97,130,62,2,1,0,0,1,1,2125,PHP,6,Ferramenta,Organization,Receptive
+cphalcon,44,2,12,33,143,117,24,7,1,1,1,1,1,2.0,PHP,6,Framework ou Biblioteca (Web),Organization,Receptive
+framework,203,3,99,103,339,141,81,5,1,1,0,1,1,6667,PHP,4,Framework ou Biblioteca (Web),Organization,Receptive
+grav,10,1,2,7,97,200,18,5,1,1,1,1,1,2.0,PHP,3,Aplicação,Organization,Receptive
+cakephp,78,2,17,62,226,81,36,5,1,0,1,1,1,1.8,PHP,7,Framework ou Biblioteca (Web),Organization,Receptive
+monolog,8,3,3,6,24,82,15,1,1,0,1,1,1,7.0,PHP,6,Framework ou Biblioteca (Não-web),User,Receptive
+phpunit,10,1,6,4,64,67,15,1,1,0,1,1,1,1667,PHP,8,Framework ou Biblioteca (Não-web),User,Receptive
+october,28,2,11,16,95,133,33,5,1,1,1,1,1,2143,PHP,4,Aplicação,Organization,Receptive
+laravel-debugbar,4,1,1,2,14,116,13,3,0,0,0,1,1,1.75,PHP,4,Framework ou Biblioteca (Não-web),User,Receptive

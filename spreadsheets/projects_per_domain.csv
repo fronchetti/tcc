@@ -1,0 +1,15 @@
+domain,count,type
+Aplicação,8,Mais receptivos
+Documentação,12,Mais receptivos
+Ferramenta,34,Mais receptivos
+Framework ou Biblioteca (Não-web),24,Mais receptivos
+Framework ou Biblioteca (Web),29,Mais receptivos
+Sem categoria,12,Mais receptivos
+Sistema,14,Mais receptivos
+Aplicação,21,Menos receptivos
+Documentação,20,Menos receptivos
+Ferramenta,57,Menos receptivos
+Framework ou Biblioteca (Não-web),52,Menos receptivos
+Framework ou Biblioteca (Web),67,Menos receptivos
+Sem categoria,85,Menos receptivos
+Sistema,15,Menos receptivos

@@ -1,0 +1,318 @@
+project_name,pull_total_mean,pull_opened_mean,pull_closed_mean,pull_merged_mean,commits_mean,stars_mean,forks_mean,languages_count,has_readme,has_contributing,has_wiki,has_project_board,has_issue_tracker,newcomers_mean,language,age,domain,owner,type
+redis,19,7,9,5,61,246,68,7,1,1,0,1,1,1429,C,8,Sistema,User,Nonreceptive
+How-to-Make-a-Computer-Operating-System,3,2,3,3,15,346,59,6,1,0,0,1,1,0.0,C,4,Documentação,User,Nonreceptive
+ijkplayer,3,1,3,1,48,314,90,7,1,0,1,1,1,1.5,C,4,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+wrk,1,1,2,0,3,217,16,5,1,0,1,1,1,0.0,C,5,Ferramenta,User,Nonreceptive
+the_silver_searcher,8,1,2,5,27,192,12,7,1,1,1,1,1,1.4,C,6,Ferramenta,User,Nonreceptive
+emscripten,32,2,7,23,219,162,19,18,1,1,1,1,1,0.0,C,6,Ferramenta,User,Nonreceptive
+The-Art-Of-Programming-By-July,12,1,3,14,97,253,104,15,0,0,1,1,1,0.0,C,4,Documentação,User,Nonreceptive
+JSPatch,5,1,2,3,14,346,71,5,1,0,1,1,1,1.0,C,2,Framework ou Biblioteca (Não-web),User,Nonreceptive
+vim,24,3,21,0,49,387,48,25,1,1,0,1,1,0.0,C,2,Ferramenta,Organization,Nonreceptive
+jq,5,1,3,3,23,155,8,9,1,0,1,1,1,0.0,C,5,Ferramenta,User,Nonreceptive
+toxcore,22,1,5,19,101,158,19,6,1,0,0,1,1,0.0,C,4,Ferramenta,User,Nonreceptive
+Telegram,6,2,6,1,8,169,68,10,1,0,0,1,0,0.0,C,4,Aplicação,User,Nonreceptive
+tmux,6,0,6,0,55,278,20,6,1,1,1,0,1,0.0,C,2,Aplicação,Organization,Nonreceptive
+torch7,11,1,2,10,19,158,45,4,1,1,1,1,1,1286,C,4,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+twemproxy,3,1,2,2,10,105,19,6,1,0,1,1,1,0.0,C,5,Ferramenta,Organization,Nonreceptive
+h2o,19,1,2,16,117,183,13,14,1,1,1,1,1,1.0,C,3,Sistema,Organization,Nonreceptive
+masscan,2,1,1,3,13,135,22,3,1,0,1,1,1,0.0,C,4,Ferramenta,User,Nonreceptive
+swoole-src,6,1,2,5,84,117,30,9,1,0,1,1,1,1.0,C,5,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+disque,5,1,2,7,33,211,14,4,1,0,1,1,1,0.0,C,2,Framework ou Biblioteca (Não-web),User,Nonreceptive
+TypeScript,126,8,17,106,489,665,97,7,1,1,1,1,1,1444,TypeScript,3,Ferramenta,Organization,Nonreceptive
+upterm,20,1,12,11,99,605,18,2,1,1,1,1,1,1333,TypeScript,2,Ferramenta,Organization,Nonreceptive
+ui-router,9,1,5,5,31,237,57,2,1,1,1,1,1,1.5,TypeScript,4,Framework ou Biblioteca (Web),Organization,Nonreceptive
+NativeScript,56,1,5,51,130,360,28,5,1,1,1,1,1,1.0,TypeScript,2,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+satellizer,8,2,3,7,75,207,33,2,1,0,0,1,1,0.0,TypeScript,3,Framework ou Biblioteca (Web),User,Nonreceptive
+rxjs,50,5,26,22,80,262,25,4,1,1,1,1,1,1273,TypeScript,2,Framework ou Biblioteca (Web),Organization,Nonreceptive
+ng2-admin,35,2,30,7,36,456,149,5,1,0,1,1,1,1333,TypeScript,1,Framework ou Biblioteca (Web),Organization,Nonreceptive
+cyclejs,5,2,1,3,78,213,8,6,1,1,1,1,1,1.5,TypeScript,3,Framework ou Biblioteca (Web),Organization,Nonreceptive
+blueprint,63,2,7,56,56,578,36,5,1,1,1,1,1,1.5,TypeScript,1,Framework ou Biblioteca (Web),Organization,Nonreceptive
+Eve,12,1,2,12,200,230,9,3,1,0,0,1,1,1.0,TypeScript,4,Ferramenta,Organization,Nonreceptive
+playground,2,2,1,3,23,304,53,4,1,1,1,1,1,0.0,TypeScript,1,Framework ou Biblioteca (Web),Organization,Nonreceptive
+reactxp,17,4,3,13,47,880,55,2,1,0,1,1,1,1222,TypeScript,0,Sem categoria,Organization,Nonreceptive
+winjs,4,2,2,3,53,92,12,4,1,1,1,1,1,0.0,TypeScript,3,Framework ou Biblioteca (Web),Organization,Nonreceptive
+esprima,10,1,10,2,19,55,6,3,1,1,1,1,1,1.0,TypeScript,6,Framework ou Biblioteca (Web),Organization,Nonreceptive
+intern,3,1,3,1,19,70,5,4,1,1,1,1,1,1.0,TypeScript,4,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+ng-bootstrap,37,3,33,4,36,151,25,3,1,1,1,1,1,1143,TypeScript,2,Framework ou Biblioteca (Web),Organization,Nonreceptive
+shumway,34,1,3,33,194,50,5,12,1,0,1,1,1,0.0,TypeScript,6,Framework ou Biblioteca (Web),Organization,Nonreceptive
+retrofit,10,1,3,7,18,288,72,5,1,0,1,0,1,1.0,Java,7,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+java-design-patterns,7,1,2,5,47,647,199,7,1,1,1,1,1,1.25,Java,3,Documentação,User,Nonreceptive
+MPAndroidChart,8,3,4,5,50,434,126,1,1,1,1,1,1,0.0,Java,3,Framework ou Biblioteca (Não-web),User,Nonreceptive
+glide,4,1,2,3,31,350,69,2,1,1,1,1,1,1429,Java,4,Ferramenta,Organization,Nonreceptive
+leakcanary,8,1,3,9,20,581,95,2,1,0,1,0,1,1.0,Java,2,Ferramenta,Organization,Nonreceptive
+spring-framework,20,2,16,2,137,199,150,17,1,1,1,0,0,1.25,Java,7,Framework ou Biblioteca (Web),Organization,Nonreceptive
+EventBus,1,1,1,2,10,258,61,2,1,1,1,1,1,0.0,Java,5,Framework ou Biblioteca (Não-web),User,Nonreceptive
+Android-Universal-Image-Loader,2,1,2,1,20,220,92,1,1,0,1,1,1,0.0,Java,6,Framework ou Biblioteca (Não-web),User,Nonreceptive
+lottie-android,12,1,2,11,54,1579,282,2,1,0,0,1,1,1.25,Java,1,Sem categoria,Organization,Nonreceptive
+iosched,3,1,2,3,44,354,123,5,1,1,0,1,1,0.0,Java,3,Aplicação,Organization,Nonreceptive
+picasso,8,1,3,6,19,268,67,4,1,1,0,0,1,1.0,Java,4,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+fresco,8,1,6,4,54,434,109,8,1,1,1,1,1,1444,Java,2,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+AndroidUtilCode,5,1,3,3,35,877,276,1,1,0,1,1,1,1.5,Java,1,Documentação,User,Nonreceptive
+PhotoView,2,0,2,1,10,180,49,1,1,0,0,1,1,1.0,Java,5,Framework ou Biblioteca (Não-web),User,Nonreceptive
+material-dialogs,5,1,2,4,43,318,60,1,1,0,0,1,1,1333,Java,3,Framework ou Biblioteca (Web),User,Nonreceptive
+Hystrix,12,2,2,12,34,187,37,6,1,1,1,1,1,1.0,Java,5,Ferramenta,Organization,Nonreceptive
+dubbo,3,2,3,3,49,184,124,7,1,0,1,1,1,1.5,Java,5,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+SlidingMenu,3,1,2,2,17,167,86,2,1,0,1,1,1,0.0,Java,5,Framework ou Biblioteca (Não-web),User,Nonreceptive
+LightTable,8,1,3,6,26,157,15,5,1,1,1,1,1,0.0,Clojure,5,Ferramenta,Organization,Nonreceptive
+om,5,1,2,6,45,136,7,4,1,0,1,1,1,1.0,Clojure,4,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+leiningen,8,1,2,7,46,58,13,6,1,1,1,0,1,1.25,Clojure,8,Ferramenta,User,Nonreceptive
+overtone,2,1,2,3,39,45,4,2,1,0,1,1,1,1.5,Clojure,7,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+icepick,1,0,1,1,8,67,4,2,1,0,1,1,1,0.0,Clojure,4,Framework ou Biblioteca (Não-web),User,Nonreceptive
+riemann,7,1,2,6,25,51,6,4,0,0,0,1,1,1.0,Clojure,5,Ferramenta,Organization,Nonreceptive
+compojure,1,1,1,1,12,29,2,2,1,0,1,1,1,0.0,Clojure,9,Framework ou Biblioteca (Web),User,Nonreceptive
+clojure-koans,2,0,1,1,5,34,19,4,1,0,1,1,1,0.0,Clojure,7,Documentação,Organization,Nonreceptive
+mori,3,1,1,4,16,47,2,5,1,0,1,1,1,0.0,Clojure,5,Framework ou Biblioteca (Web),User,Nonreceptive
+reagent,1,1,1,1,20,59,4,5,1,1,1,1,1,1.0,Clojure,4,Framework ou Biblioteca (Web),Organization,Nonreceptive
+alda,4,0,1,4,18,80,7,2,1,1,0,1,1,1.0,Clojure,3,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+re-frame,7,1,2,5,42,82,8,5,1,1,1,1,1,1.5,Clojure,3,Documentação,Organization,Nonreceptive
+datascript,2,1,1,1,11,63,4,4,1,0,1,1,1,1.0,Clojure,3,Framework ou Biblioteca (Não-web),User,Nonreceptive
+jepsen,2,0,1,2,24,47,5,6,1,0,0,1,1,1333,Clojure,4,Sem categoria,Organization,Nonreceptive
+modern-cljs,6,1,3,6,43,42,4,2,1,0,0,1,1,1.0,Clojure,5,Sem categoria,User,Nonreceptive
+ring,2,1,1,2,10,37,4,5,1,0,1,1,1,1.0,Clojure,5,Sem categoria,Organization,Nonreceptive
+lein-figwheel,3,1,1,3,33,54,4,5,1,0,1,1,1,1.5,Clojure,3,Sem categoria,User,Nonreceptive
+quil,2,1,1,2,15,30,2,4,1,0,1,1,1,0.0,Clojure,5,Sem categoria,Organization,Nonreceptive
+incanter,2,1,1,2,17,18,3,5,0,0,1,1,1,0.0,Clojure,8,Sem categoria,Organization,Nonreceptive
+aleph,2,1,1,1,13,22,2,1,1,0,0,1,1,0.0,Clojure,7,Sem categoria,User,Nonreceptive
+clojure-cookbook,14,1,3,12,59,35,6,2,1,1,0,1,1,0.0,Clojure,4,Sem categoria,Organization,Nonreceptive
+instaparse,1,1,1,1,19,33,2,1,1,0,1,1,1,0.0,Clojure,4,Sem categoria,User,Nonreceptive
+pedestal,4,1,1,4,27,32,3,6,1,1,1,1,1,1.5,Clojure,4,Sem categoria,Organization,Nonreceptive
+schema,4,1,1,4,19,36,4,2,1,1,1,1,1,0.0,Clojure,4,Sem categoria,Organization,Nonreceptive
+hiccup,1,1,1,1,6,17,1,1,1,0,1,1,1,0.0,Clojure,8,Sem categoria,User,Nonreceptive
+onyx,6,0,2,5,143,41,4,2,1,0,1,1,1,0.0,Clojure,4,Sem categoria,Organization,Nonreceptive
+transit-format,2,0,1,0,5,38,2,2,1,0,1,1,1,0.0,Clojure,3,Sem categoria,Organization,Nonreceptive
+specter,1,0,1,1,27,46,2,3,1,0,1,1,1,1.0,Clojure,2,Sem categoria,User,Nonreceptive
+incubator-predictionio,7,1,5,6,80,182,30,5,1,1,0,1,0,1.0,Scala,4,Sistema,Organization,Nonreceptive
+shadowsocks-android,3,1,1,3,34,159,77,9,1,1,1,1,1,0.0,Scala,5,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+scala,85,4,21,63,156,127,29,10,1,1,0,1,0,1.0,Scala,6,Sistema,Organization,Nonreceptive
+gitbucket,10,1,2,8,72,121,16,6,1,0,1,0,1,1.0,Scala,4,Aplicação,Organization,Nonreceptive
+ArnoldC,2,1,2,1,5,115,6,1,1,0,1,1,1,0.0,Scala,4,Sistema,User,Nonreceptive
+aerosolve,10,1,1,9,40,146,18,4,1,0,0,1,1,1.0,Scala,2,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+kafka-manager,4,1,1,4,16,129,33,5,1,0,1,1,1,1.0,Scala,2,Ferramenta,Organization,Nonreceptive
+chronos,8,2,2,8,25,68,9,5,1,0,0,1,1,0.0,Scala,4,Aplicação,Organization,Nonreceptive
+snowflake,1,1,2,0,11,42,8,0,1,0,0,1,1,0.0,Scala,7,Framework ou Biblioteca (Web),Organization,Nonreceptive
+snowplow,4,1,3,1,85,55,13,12,1,1,1,1,1,1.0,Scala,5,Framework ou Biblioteca (Web),Organization,Nonreceptive
+marathon,46,2,7,39,111,68,15,10,1,0,0,1,1,1.4,Scala,4,Ferramenta,Organization,Nonreceptive
+bfg-repo-cleaner,1,1,1,1,11,60,3,2,1,1,1,1,1,0.0,Scala,5,Ferramenta,User,Nonreceptive
+fpinscala,3,2,2,4,11,54,29,3,1,0,1,1,1,0.0,Scala,5,Documentação,Organization,Nonreceptive
+scalaz,14,2,3,12,56,35,6,2,1,1,1,0,1,0.0,Scala,7,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+sbt,17,2,5,14,56,33,6,4,1,1,1,1,1,1.0,Scala,8,Ferramenta,Organization,Nonreceptive
+flockdb,2,0,2,2,28,35,3,4,0,0,0,1,0,0.0,Scala,7,Sistema,Organization,Nonreceptive
+scala-js,31,1,3,28,75,55,4,6,1,1,1,1,1,1.0,Scala,4,Ferramenta,Organization,Nonreceptive
+diffy,2,1,1,2,5,115,10,7,1,0,0,1,1,0.0,Scala,2,Framework ou Biblioteca (Web),Organization,Nonreceptive
+scalding,17,1,3,14,58,43,9,5,1,1,1,1,1,0.0,Scala,5,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+kestrel,1,0,3,1,18,24,3,4,1,0,1,1,1,0.0,Scala,9,Ferramenta,Organization,Nonreceptive
+linkerd,44,2,6,38,50,132,11,8,1,1,1,1,1,1.25,Scala,1,Sem categoria,Organization,Nonreceptive
+spray,8,1,2,9,46,33,8,5,0,1,1,1,1,0.0,Scala,6,Framework ou Biblioteca (Web),Organization,Nonreceptive
+scalatra,4,1,1,4,31,22,3,4,0,0,0,1,1,1.0,Scala,8,Sem categoria,Organization,Nonreceptive
+awesome-python,20,10,6,9,29,970,176,2,1,1,0,1,1,1.5,Python,3,Documentação,User,Nonreceptive
+thefuck,11,1,3,10,46,1032,50,2,1,1,1,1,1,1.0,Python,2,Ferramenta,User,Nonreceptive
+flask,13,1,5,9,34,331,104,4,1,0,0,1,1,1231,Python,7,Framework ou Biblioteca (Web),Organization,Nonreceptive
+big-list-of-naughty-strings,7,3,3,8,17,841,32,3,1,0,1,1,1,0.0,Python,2,Documentação,User,Nonreceptive
+shadowsocks,2,1,1,1,1,304,139,2,1,0,1,1,1,0.0,Python,5,Ferramenta,Organization,Nonreceptive
+system-design-primer,11,1,3,7,24,2803,303,1,1,1,1,1,1,1.0,Python,0,Sem categoria,User,Nonreceptive
+XX-Net,11,1,3,9,42,509,160,8,1,0,1,1,1,1.0,Python,2,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+YouCompleteMe,10,1,3,7,34,222,29,4,1,1,1,1,1,0.0,Python,5,Ferramenta,User,Nonreceptive
+you-get,9,2,3,7,28,242,49,3,1,0,1,1,1,1.5,Python,5,Aplicação,User,Nonreceptive
+reddit,10,3,10,1,83,125,27,11,1,1,1,1,1,0.0,Python,9,Aplicação,Organization,Nonreceptive
+Deep-Learning-Papers-Reading-Roadmap,4,2,2,2,13,1138,205,1,1,0,1,1,1,1.0,Python,1,Documentação,User,Nonreceptive
+python-patterns,3,0,1,3,9,200,45,2,1,0,1,1,1,1.25,Python,5,Documentação,User,Nonreceptive
+macOS-Security-and-Privacy-Guide,4,0,1,3,17,457,27,1,1,0,0,0,1,1333,Python,2,Documentação,User,Nonreceptive
+d3,13,1,8,6,50,655,212,1,1,0,1,0,1,0.0,JavaScript,7,Framework ou Biblioteca (Web),Organization,Nonreceptive
+angular.js,89,3,79,7,91,571,316,5,1,1,1,1,1,1444,JavaScript,7,Framework ou Biblioteca (Web),Organization,Nonreceptive
+jquery,26,1,23,4,46,444,138,4,1,1,1,1,1,1167,JavaScript,8,Framework ou Biblioteca (Web),Organization,Nonreceptive
+html5-boilerplate,10,1,8,5,19,412,103,3,1,0,1,1,1,1167,JavaScript,7,Framework ou Biblioteca (Web),Organization,Nonreceptive
+Semantic-UI,14,4,5,6,120,744,80,3,1,1,1,1,1,1.0,JavaScript,4,Framework ou Biblioteca (Web),Organization,Nonreceptive
+reveal.js,8,2,5,4,29,481,147,3,1,1,1,1,1,0.0,JavaScript,6,Framework ou Biblioteca (Web),User,Nonreceptive
+socket.io,8,1,5,5,24,394,74,2,0,0,0,1,1,1.25,JavaScript,7,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+express,9,1,6,3,59,340,64,3,0,0,1,1,1,1.5,JavaScript,8,Framework ou Biblioteca (Web),Organization,Nonreceptive
+impress.js,4,1,4,2,7,461,93,3,1,0,1,1,1,0.0,JavaScript,6,Framework ou Biblioteca (Web),Organization,Nonreceptive
+resume.github.com,4,1,8,4,9,445,11,4,0,0,1,1,1,0.0,JavaScript,6,Aplicação,Organization,Nonreceptive
+hacker-scripts,9,1,4,10,16,1279,226,14,1,0,0,0,1,0.0,JavaScript,2,Aplicação,User,Nonreceptive
+brackets,73,2,14,59,250,401,83,8,1,1,1,1,1,1444,JavaScript,6,Aplicação,Organization,Nonreceptive
+jQuery-File-Upload,4,1,3,1,14,335,88,7,1,1,1,1,0,1.0,JavaScript,7,Framework ou Biblioteca (Web),User,Nonreceptive
+gulp,10,1,3,7,21,538,78,2,1,1,0,1,1,1.5,JavaScript,4,Ferramenta,Organization,Nonreceptive
+diff-so-fancy,7,1,3,6,23,431,8,2,0,0,1,1,1,1333,Perl,1,Ferramenta,Organization,Nonreceptive
+gitolite,2,1,2,1,10,68,8,3,0,1,1,1,0,1.0,Perl,8,Ferramenta,User,Nonreceptive
+FlameGraph,2,1,1,2,5,71,8,5,1,0,1,1,1,1.25,Perl,6,Framework ou Biblioteca (Web),User,Nonreceptive
+Expose,2,1,1,3,12,154,8,5,0,0,1,1,1,0.0,Perl,2,Documentação,User,Nonreceptive
+MySQLTuner-perl,2,0,2,3,12,38,8,4,1,1,1,1,1,1333,Perl,8,Ferramenta,User,Nonreceptive
+cloc,2,1,1,2,16,136,10,62,1,0,1,1,1,1.0,Perl,2,Ferramenta,User,Nonreceptive
+EQGRP,8,1,3,12,33,545,333,11,1,0,1,1,1,0.0,Perl,0,Sem categoria,User,Nonreceptive
+sicp-pdf,1,2,0,1,4,35,4,4,1,0,1,1,1,1.0,Perl,6,Documentação,User,Nonreceptive
+ua-parser,6,1,2,6,25,22,7,15,0,1,0,1,1,0.0,Perl,7,Sem categoria,User,Nonreceptive
+mojo,5,1,4,2,102,17,4,4,1,0,1,1,1,0.0,Perl,9,Sem categoria,User,Nonreceptive
+nginx-tutorials,1,0,1,1,14,26,5,3,0,0,1,1,1,0.0,Perl,6,Sem categoria,Organization,Nonreceptive
+nikto,5,1,1,4,17,30,5,3,1,0,1,1,1,1.0,Perl,5,Sem categoria,User,Nonreceptive
+rcm,3,1,2,2,6,32,2,6,1,1,1,1,1,0.0,Perl,4,Sem categoria,Organization,Nonreceptive
+duckduckgo,2,1,1,2,11,17,3,2,1,1,1,1,1,0.0,Perl,6,Sem categoria,Organization,Nonreceptive
+ack2,2,1,2,2,33,19,2,16,1,1,1,1,1,0.0,Perl,6,Sem categoria,Organization,Nonreceptive
+sqitch,1,1,1,1,42,21,2,4,1,0,1,1,1,1.0,Perl,5,Sem categoria,User,Nonreceptive
+pgbadger,1,1,1,1,13,17,2,3,1,1,1,1,1,1.0,Perl,5,Sem categoria,Organization,Nonreceptive
+ABTestingGateway,1,0,1,1,8,42,15,8,1,0,1,1,1,0.0,Perl,2,Sem categoria,Organization,Nonreceptive
+dotfiles,1,1,1,2,13,38,6,4,1,0,0,1,0,1.0,Perl,2,Ferramenta,User,Nonreceptive
+munin,9,1,2,8,44,16,5,11,0,1,1,1,1,1.0,Perl,5,Sem categoria,Organization,Nonreceptive
+owasp-modsecurity-crs,7,1,2,6,18,17,6,5,1,0,1,1,1,0.0,Perl,5,Sem categoria,Organization,Nonreceptive
+lua-resty-auto-ssl,1,1,1,1,10,48,2,4,1,0,1,1,1,0.0,Perl,1,Sem categoria,User,Nonreceptive
+rsnapshot,2,1,1,2,13,17,2,4,1,1,1,1,1,1.0,Perl,5,Sem categoria,Organization,Nonreceptive
+git-cal,3,1,2,3,8,19,2,1,1,0,1,1,1,0.0,Perl,4,Sem categoria,User,Nonreceptive
+contrib,11,1,2,10,52,13,8,10,1,0,0,1,1,1.4,Perl,6,Sem categoria,Organization,Nonreceptive
+Linux_Exploit_Suggester,1,1,0,1,8,19,5,1,1,0,1,1,1,0.0,Perl,4,Sem categoria,User,Nonreceptive
+MultiMarkdown,1,1,1,0,8,9,5,2,0,0,1,1,1,0.0,Perl,8,Sem categoria,User,Nonreceptive
+rainbarf,1,0,1,1,9,16,3,1,1,0,1,1,1,0.0,Perl,4,Sem categoria,User,Nonreceptive
+AirChat,2,0,1,1,3,22,3,1,1,0,1,1,1,0.0,Perl,3,Sem categoria,User,Nonreceptive
+prey-bash-client,1,1,2,1,27,8,1,3,1,0,1,1,1,0.0,Perl,8,Sem categoria,Organization,Nonreceptive
+atom,52,4,11,39,445,869,178,6,1,1,0,1,1,1429,CoffeeScript,5,Aplicação,Organization,Nonreceptive
+coffeescript,10,1,4,7,47,151,17,2,1,1,1,1,1,1.0,CoffeeScript,8,Sistema,User,Nonreceptive
+trix,3,1,2,2,53,331,14,5,1,0,1,1,1,0.0,CoffeeScript,4,Framework ou Biblioteca (Web),Organization,Nonreceptive
+zxcvbn,1,1,1,2,10,118,7,4,1,0,0,1,1,0.0,CoffeeScript,5,Framework ou Biblioteca (Web),Organization,Nonreceptive
+vimium,9,2,4,6,41,77,10,5,1,1,1,1,1,1.0,CoffeeScript,8,Aplicação,User,Nonreceptive
+SwitchyOmega,1,0,1,1,14,133,27,4,1,0,1,1,1,1.0,CoffeeScript,5,Ferramenta,User,Nonreceptive
+morris.js,3,1,2,3,10,97,16,5,1,0,1,1,1,0.0,CoffeeScript,5,Framework ou Biblioteca (Web),Organization,Nonreceptive
+dynamics.js,2,0,1,1,10,156,11,1,1,0,0,1,1,0.0,CoffeeScript,3,Framework ou Biblioteca (Web),User,Nonreceptive
+marp,4,1,2,5,27,360,20,5,1,0,1,1,1,1.0,CoffeeScript,1,Framework ou Biblioteca (Web),User,Nonreceptive
+bacon.js,5,1,2,4,40,91,4,4,1,1,1,1,1,1.0,CoffeeScript,5,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+codecombat,57,2,8,50,303,124,63,7,1,1,1,1,1,1.5,CoffeeScript,4,Aplicação,Organization,Nonreceptive
+At.js,2,1,1,2,10,68,8,4,1,1,1,1,1,1.0,CoffeeScript,5,Framework ou Biblioteca (Web),User,Nonreceptive
+chroma.js,1,1,1,1,9,70,5,3,0,0,1,1,1,1.0,CoffeeScript,6,Framework ou Biblioteca (Web),User,Nonreceptive
+sharelatex,1,3,1,2,7,102,11,2,1,1,1,1,1,1.5,CoffeeScript,3,Aplicação,Organization,Nonreceptive
+textures,2,1,2,2,7,136,7,2,1,0,1,1,1,0.0,CoffeeScript,2,Framework ou Biblioteca (Web),User,Nonreceptive
+turbolinks,3,1,1,2,14,211,13,4,1,0,1,1,1,0.0,CoffeeScript,1,Framework ou Biblioteca (Web),Organization,Nonreceptive
+vibrant.js,1,1,1,1,3,141,5,3,1,0,1,1,1,0.0,CoffeeScript,2,Framework ou Biblioteca (Web),User,Nonreceptive
+bootstrap-tour,3,1,2,2,14,62,12,4,1,0,0,1,1,1.0,CoffeeScript,5,Documentação,User,Nonreceptive
+jquery.payment,2,0,3,2,7,64,9,2,1,0,0,1,1,0.0,CoffeeScript,5,Framework ou Biblioteca (Web),Organization,Nonreceptive
+turbolinks-classic,6,1,3,4,16,59,7,5,1,0,1,1,1,0.0,CoffeeScript,5,Framework ou Biblioteca (Web),Organization,Nonreceptive
+hubot-scripts,22,1,5,23,62,47,26,2,1,1,1,1,1,0.0,CoffeeScript,6,Ferramenta,Organization,Nonreceptive
+pow,2,1,3,1,20,43,3,3,1,0,1,1,1,0.0,CoffeeScript,6,Ferramenta,Organization,Nonreceptive
+Log.io,1,1,1,1,6,45,6,3,1,0,1,0,1,0.0,CoffeeScript,6,Framework ou Biblioteca (Web),Organization,Nonreceptive
+activate-power-mode,4,1,2,4,15,146,19,2,1,0,1,1,1,1.0,CoffeeScript,2,Ferramenta,User,Nonreceptive
+aglio,2,1,2,2,9,70,7,4,1,0,1,1,1,0.0,CoffeeScript,4,Framework ou Biblioteca (Web),User,Nonreceptive
+wintersmith,2,1,2,1,10,50,4,2,1,0,1,1,1,0.0,CoffeeScript,5,Aplicação,User,Nonreceptive
+Keypress,2,1,1,2,6,51,5,4,1,0,1,1,1,0.0,CoffeeScript,5,Framework ou Biblioteca (Web),User,Nonreceptive
+chinese-copywriting-guidelines,1,1,1,1,7,70,7,1,1,0,0,0,1,0.0,CoffeeScript,3,Documentação,User,Nonreceptive
+chaplin,8,1,2,8,33,44,4,2,1,1,1,1,1,0.0,CoffeeScript,5,Framework ou Biblioteca (Web),Organization,Nonreceptive
+AFNetworking,17,3,9,9,40,389,120,3,1,1,1,1,1,1.0,Objective-C,6,Ferramenta,Organization,Nonreceptive
+SDWebImage,7,1,4,4,15,191,55,2,1,0,1,1,1,1.4,Objective-C,8,Framework ou Biblioteca (Web),User,Nonreceptive
+GPUImage,6,2,2,6,20,240,57,4,1,0,1,1,1,0.0,Objective-C,5,Framework ou Biblioteca (Não-web),User,Nonreceptive
+Masonry,2,1,1,2,10,302,57,3,1,0,0,1,1,0.0,Objective-C,4,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+MBProgressHUD,2,1,3,1,7,135,32,2,0,0,1,1,1,1.0,Objective-C,8,Framework ou Biblioteca (Não-web),User,Nonreceptive
+fmdb,3,1,1,2,6,136,30,4,0,0,1,1,1,0.0,Objective-C,7,Sistema,User,Nonreceptive
+realm-cocoa,44,2,8,37,164,274,36,7,1,1,1,1,1,1.0,Objective-C,5,Sistema,Organization,Nonreceptive
+MJRefresh,3,1,2,2,10,266,79,2,1,0,1,1,1,0.0,Objective-C,3,Framework ou Biblioteca (Não-web),User,Nonreceptive
+JSQMessagesViewController,8,0,5,4,34,192,44,4,1,0,0,0,1,1.0,Objective-C,4,Framework ou Biblioteca (Não-web),User,Nonreceptive
+Mantle,5,1,2,4,26,181,23,3,1,1,0,1,1,1.0,Objective-C,5,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+YYKit,3,1,2,3,15,235,86,2,1,0,0,1,1,1.0,Objective-C,4,Framework ou Biblioteca (Não-web),User,Nonreceptive
+MagicalRecord,5,2,4,3,15,120,22,4,1,1,1,1,1,0.0,Objective-C,7,Ferramenta,Organization,Nonreceptive
+lottie-ios,18,1,5,19,25,1066,136,4,1,0,0,1,1,1.5,Objective-C,1,Sem categoria,Organization,Nonreceptive
+RestKit,8,1,6,4,38,110,25,5,1,1,1,1,1,1.0,Objective-C,7,Framework ou Biblioteca (Web),Organization,Nonreceptive
+SVProgressHUD,3,1,3,2,9,128,26,2,1,0,0,1,1,1.0,Objective-C,6,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+Alcatraz,4,1,2,3,19,186,23,4,1,1,0,1,1,1.0,Objective-C,4,Ferramenta,Organization,Nonreceptive
+IQKeyboardManager,2,1,1,2,17,202,33,3,1,0,1,1,1,1.0,Objective-C,4,Framework ou Biblioteca (Não-web),User,Nonreceptive
+iCarousel,1,1,1,1,5,125,29,1,1,0,1,1,1,0.0,Objective-C,6,Framework ou Biblioteca (Não-web),User,Nonreceptive
+CocoaLumberjack,5,1,1,5,15,119,23,4,1,0,1,1,1,1333,Objective-C,6,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+WebViewJavascriptBridge,2,1,1,2,8,130,27,7,1,0,1,1,1,0.0,Objective-C,6,Framework ou Biblioteca (Não-web),User,Nonreceptive
+DZNEmptyDataSet,3,1,1,3,14,230,32,4,1,0,1,1,1,0.0,Objective-C,3,Framework ou Biblioteca (Não-web),User,Nonreceptive
+CocoaAsyncSocket,2,1,2,2,5,129,33,4,0,0,1,1,1,1.0,Objective-C,6,Framework ou Biblioteca (Não-web),User,Nonreceptive
+PNChart,3,1,1,3,12,187,36,2,1,0,1,1,1,0.0,Objective-C,4,Framework ou Biblioteca (Não-web),User,Nonreceptive
+VVDocumenter-Xcode,2,1,1,2,8,165,32,1,1,0,1,1,1,0.0,Objective-C,4,Ferramenta,User,Nonreceptive
+FLEX,2,1,1,2,15,210,22,2,1,1,1,1,1,1.0,Objective-C,3,Ferramenta,Organization,Nonreceptive
+bitbar,8,1,4,11,35,186,9,4,1,0,0,1,1,1.0,Objective-C,4,Ferramenta,User,Nonreceptive
+spectacle,1,1,1,1,14,96,6,2,1,1,0,1,1,0.0,Objective-C,7,Framework ou Biblioteca (Web),User,Nonreceptive
+Shimmer,1,1,1,1,3,184,23,2,1,1,1,1,1,0.0,Objective-C,3,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+UITableView-FDTemplateLayoutCell,1,1,1,1,9,269,58,2,1,0,1,1,1,0.0,Objective-C,2,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+postgrest,10,1,2,8,33,283,12,3,1,1,1,1,1,1333,Haskell,3,Framework ou Biblioteca (Web),User,Nonreceptive
+pandoc,9,1,2,8,72,104,13,11,1,1,1,1,1,1167,Haskell,7,Framework ou Biblioteca (Não-web),User,Nonreceptive
+shellcheck,2,1,1,1,15,157,9,2,1,0,1,1,1,1333,Haskell,5,Ferramenta,User,Nonreceptive
+elm-compiler,9,1,3,7,67,65,4,3,1,0,0,1,1,1.0,Haskell,5,Ferramenta,Organization,Nonreceptive
+Haxl,2,1,2,2,6,70,6,1,0,0,1,1,1,1.0,Haskell,3,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+write-you-a-haskell,3,1,1,3,14,55,4,14,1,0,1,1,1,0.0,Haskell,2,Sem categoria,User,Nonreceptive
+yesod,7,1,1,5,44,18,4,5,1,0,1,1,1,1.2,Haskell,8,Sem categoria,Organization,Nonreceptive
+ghcjs,2,1,1,2,16,22,2,9,0,0,1,1,1,1.0,Haskell,7,Sem categoria,Organization,Nonreceptive
+corrode,3,1,1,3,34,97,6,4,1,1,0,1,1,0.0,Haskell,1,Sem categoria,User,Nonreceptive
+hakyll,3,1,1,3,18,18,3,4,0,0,1,1,1,1.0,Haskell,8,Sem categoria,User,Nonreceptive
+IHaskell,5,1,2,4,31,31,3,6,1,0,1,1,1,1.0,Haskell,4,Sem categoria,User,Nonreceptive
+gitit,2,1,1,2,16,14,2,9,0,0,1,1,1,0.0,Haskell,9,Sem categoria,User,Nonreceptive
+lamdu,1,1,1,1,97,22,1,4,1,0,1,1,1,1.0,Haskell,6,Sem categoria,Organization,Nonreceptive
+HLearn,1,1,2,1,19,22,2,8,1,0,1,1,1,0.0,Haskell,5,Sem categoria,User,Nonreceptive
+haste-compiler,2,0,1,1,27,19,2,10,1,0,1,1,1,0.0,Haskell,5,Sem categoria,User,Nonreceptive
+unison,3,0,1,3,33,40,2,5,1,0,1,1,1,0.0,Haskell,2,Sem categoria,Organization,Nonreceptive
+fay,4,0,2,2,20,18,2,3,1,0,1,1,1,1.0,Haskell,5,Sem categoria,Organization,Nonreceptive
+lens,5,1,1,4,63,19,3,2,0,0,1,1,1,1.25,Haskell,5,Sem categoria,User,Nonreceptive
+yi,5,1,2,4,42,15,2,4,1,0,1,1,1,1333,Haskell,6,Sem categoria,Organization,Nonreceptive
+scotty,2,1,1,1,7,18,2,2,1,0,1,1,1,1.0,Haskell,6,Sem categoria,Organization,Nonreceptive
+Carp,6,1,3,5,76,52,2,4,1,0,1,1,1,0.0,Haskell,1,Sem categoria,Organization,Nonreceptive
+wiwinwlh,4,1,1,3,21,30,4,12,1,0,0,1,0,1.0,Haskell,3,Sem categoria,User,Nonreceptive
+zsh-git-prompt,1,1,1,1,6,12,3,3,1,0,0,1,1,0.0,Haskell,7,Sem categoria,User,Nonreceptive
+grenade,2,1,1,2,13,55,3,3,1,0,1,1,1,1.0,Haskell,1,Sem categoria,User,Nonreceptive
+lantern,16,1,3,15,92,444,119,19,1,0,1,1,1,0.0,Go,6,Aplicação,Organization,Nonreceptive
+gogs,27,1,8,20,111,476,55,6,1,0,1,0,1,1.2,Go,3,Ferramenta,Organization,Nonreceptive
+syncthing,33,1,19,20,95,372,31,7,1,1,1,1,1,1.0,Go,4,Ferramenta,Organization,Nonreceptive
+gin,10,1,4,8,26,297,34,3,1,1,0,0,1,1444,Go,3,Framework ou Biblioteca (Web),Organization,Nonreceptive
+hub,6,1,3,5,28,123,11,6,1,1,0,1,1,1.2,Go,8,Ferramenta,Organization,Nonreceptive
+ngrok,1,1,1,1,11,206,31,4,1,0,0,1,1,0.0,Go,4,Ferramenta,User,Nonreceptive
+cayley,8,1,3,7,30,262,22,9,1,0,0,1,1,1.0,Go,3,Sistema,Organization,Nonreceptive
+nsq,9,1,2,8,28,161,21,7,1,1,0,0,1,1.0,Go,5,Sistema,Organization,Nonreceptive
+fzf,4,1,2,3,30,213,9,5,1,0,1,0,1,1286,Go,4,Ferramenta,User,Nonreceptive
+martini,5,0,2,5,18,205,21,1,1,0,0,1,1,0.0,Go,4,Framework ou Biblioteca (Web),Organization,Nonreceptive
+revel,8,1,4,6,23,125,17,4,1,1,1,1,1,0.0,Go,6,Framework ou Biblioteca (Web),Organization,Nonreceptive
+websocketd,2,1,1,2,7,160,8,3,1,0,1,1,1,0.0,Go,4,Ferramenta,User,Nonreceptive
+cowboy,5,1,3,4,20,54,10,3,0,0,0,0,1,0.0,Erlang,6,Sistema,Organization,Nonreceptive
+couchdb,9,1,5,5,93,32,6,10,0,1,0,1,1,1.0,Erlang,8,Sistema,Organization,Nonreceptive
+ejabberd,6,1,2,6,33,34,10,9,1,0,1,1,1,1.0,Erlang,7,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+rabbitmq-server,12,1,2,14,149,38,10,5,1,1,0,1,1,1.5,Erlang,7,Sistema,Organization,Nonreceptive
+emqttd,9,1,1,9,58,43,11,2,1,0,1,1,1,0.0,Erlang,5,Sem categoria,Organization,Nonreceptive
+ChicagoBoss,5,1,2,4,20,17,3,7,1,0,1,1,1,0.0,Erlang,8,Sem categoria,Organization,Nonreceptive
+theBeamBook,10,0,0,10,22,262,22,8,1,0,1,1,1,1.0,Erlang,0,Sem categoria,User,Nonreceptive
+mochiweb,1,1,1,1,6,17,4,4,1,0,1,1,1,1.0,Erlang,7,Sem categoria,Organization,Nonreceptive
+lfe,3,1,1,2,10,15,1,5,1,0,1,1,1,0.0,Erlang,9,Sem categoria,User,Nonreceptive
+disco,5,1,1,6,43,13,2,8,1,0,1,1,1,0.0,Erlang,9,Sem categoria,Organization,Nonreceptive
+webmachine,3,1,2,2,7,15,3,5,1,0,1,1,1,0.0,Erlang,7,Sem categoria,Organization,Nonreceptive
+tsung,2,1,1,2,12,15,4,8,1,0,0,1,1,1.0,Erlang,7,Sem categoria,Organization,Nonreceptive
+rebar,7,1,7,2,26,12,3,3,1,1,0,1,0,0.0,Erlang,5,Sem categoria,Organization,Nonreceptive
+n2o,5,0,1,4,34,19,3,5,1,0,1,1,1,1.0,Erlang,4,Sem categoria,Organization,Nonreceptive
+leofs,3,1,1,3,20,18,2,7,1,0,1,1,1,0.0,Erlang,5,Sem categoria,Organization,Nonreceptive
+yaws,2,0,1,1,13,9,2,14,1,0,1,1,1,1.0,Erlang,8,Sem categoria,User,Nonreceptive
+vernemq,6,2,1,6,37,35,3,6,0,0,1,1,1,1.0,Erlang,2,Sem categoria,Organization,Nonreceptive
+actordb,1,0,0,1,13,22,2,5,1,0,1,1,1,1.0,Erlang,3,Sem categoria,Organization,Nonreceptive
+poolboy,1,1,1,1,5,12,2,2,1,0,1,1,1,0.0,Erlang,7,Sem categoria,User,Nonreceptive
+rebar,7,1,7,2,26,12,3,3,1,1,0,1,0,0.0,Erlang,5,Sem categoria,Organization,Nonreceptive
+lager,3,0,2,3,12,12,4,3,1,0,1,1,1,0.0,Erlang,6,Sem categoria,Organization,Nonreceptive
+riak_core,9,1,2,7,23,10,3,2,1,0,1,1,1,0.0,Erlang,7,Sem categoria,Organization,Nonreceptive
+nitrogen,2,1,1,2,12,8,1,9,0,0,1,1,1,1.0,Erlang,9,Sem categoria,Organization,Nonreceptive
+alpaca,8,1,1,8,40,51,2,2,1,0,1,1,1,1.0,Erlang,1,Sem categoria,Organization,Nonreceptive
+logplex,3,1,1,2,30,11,1,4,1,0,1,1,1,0.0,Erlang,7,Sem categoria,Organization,Nonreceptive
+reia,1,0,0,1,37,7,1,3,1,0,1,1,1,0.0,Erlang,9,Sem categoria,User,Nonreceptive
+gproc,1,1,1,1,4,8,2,2,1,0,1,1,1,0.0,Erlang,7,Sem categoria,User,Nonreceptive
+legacy-homebrew,460,0,470,3,717,285,133,3,1,0,0,0,1,0.0,Ruby,8,Ferramenta,Organization,Nonreceptive
+awesome-awesomeness,7,0,11,8,11,503,62,1,1,1,0,1,1,1.0,Ruby,3,Documentação,User,Nonreceptive
+devise,12,2,5,7,36,182,41,2,1,1,1,1,1,0.0,Ruby,8,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+huginn,17,2,3,13,52,309,33,6,1,0,1,1,1,1286,Ruby,4,Ferramenta,Organization,Nonreceptive
+ruby,20,3,18,2,215,141,35,22,1,1,0,0,0,0.0,Ruby,7,Sistema,Organization,Nonreceptive
+bootstrap-sass,5,1,3,3,18,169,43,5,1,1,0,1,1,0.0,Ruby,6,Framework ou Biblioteca (Web),Organization,Nonreceptive
+diaspora,38,2,16,23,218,134,32,6,1,1,1,1,1,1333,Ruby,7,Aplicação,Organization,Nonreceptive
+sass,5,1,3,3,49,122,22,4,1,1,0,1,1,1.0,Ruby,7,Ferramenta,Organization,Nonreceptive
+capistrano,9,1,3,7,28,94,13,3,1,1,0,1,1,1167,Ruby,8,Ferramenta,Organization,Nonreceptive
+CocoaPods,15,2,4,12,94,132,24,2,1,1,1,1,1,1167,Ruby,6,Ferramenta,Organization,Nonreceptive
+sinatra,8,1,3,6,33,91,14,6,1,1,0,1,1,1.4,Ruby,8,Framework ou Biblioteca (Web),Organization,Nonreceptive
+octopress,13,2,9,5,14,99,31,4,0,0,1,1,1,0.0,Ruby,8,Aplicação,User,Nonreceptive
+paperclip,9,2,6,3,16,77,15,3,1,1,1,1,1,0.0,Ruby,9,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+grape,11,1,3,7,23,94,11,1,1,1,0,1,1,1.0,Ruby,7,Framework ou Biblioteca (Web),Organization,Nonreceptive
+laravel,36,0,23,13,72,462,149,4,0,0,0,1,0,1444,PHP,6,Framework ou Biblioteca (Web),Organization,Nonreceptive
+CodeIgniter,35,1,19,16,72,203,93,8,0,0,1,1,1,1167,PHP,6,Framework ou Biblioteca (Web),Organization,Nonreceptive
+DesignPatternsPHP,4,1,1,3,14,217,44,6,1,0,1,1,1,1.0,PHP,6,Documentação,User,Nonreceptive
+Faker,13,2,5,8,30,162,24,2,0,1,0,1,1,1286,PHP,6,Framework ou Biblioteca (Web),User,Nonreceptive
+yii2,107,5,41,62,222,164,108,9,1,0,1,0,1,1.5,PHP,5,Framework ou Biblioteca (Web),Organization,Nonreceptive
+guzzle,10,1,3,7,40,125,20,3,1,0,0,1,1,1.0,PHP,6,Framework ou Biblioteca (Web),Organization,Nonreceptive
+WordPress,4,1,5,0,213,139,75,3,0,0,0,1,0,1.0,PHP,6,Aplicação,Organization,Nonreceptive
+PHPMailer,4,1,2,3,17,131,67,2,1,0,1,1,1,1333,PHP,6,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+PHPExcel,6,2,4,2,17,143,48,2,1,0,1,1,1,0.0,PHP,5,Framework ou Biblioteca (Não-web),Organization,Nonreceptive
+phabricator,4,0,2,4,179,109,14,9,1,0,0,1,0,0.0,PHP,6,Documentação,Organization,Nonreceptive
+sage,11,1,4,7,26,107,31,4,1,0,1,1,1,1333,PHP,6,Framework ou Biblioteca (Web),Organization,Nonreceptive
+Slim,12,2,6,9,40,98,19,2,1,1,1,1,1,1.0,PHP,7,Framework ou Biblioteca (Web),Organization,Nonreceptive
+koel,9,1,4,6,53,372,37,6,1,0,1,1,1,0.0,PHP,2,Aplicação,User,Nonreceptive
+piwik,39,3,7,35,201,101,19,11,1,1,1,0,1,1.5,PHP,6,Ferramenta,Organization,Nonreceptive
+Mobile-Detect,3,1,1,2,11,116,31,1,1,0,1,1,1,1.0,PHP,5,Framework ou Biblioteca (Web),User,Nonreceptive
+SecLists,2,2,2,5,7,129,51,6,1,0,1,1,1,0.0,PHP,5,Documentação,User,Nonreceptive
+Cachet,35,2,6,28,137,199,22,4,1,1,0,0,1,1333,PHP,3,Ferramenta,Organization,Nonreceptive
+api,7,2,3,6,32,154,22,1,0,1,1,1,1,0.0,PHP,3,Framework ou Biblioteca (Web),Organization,Nonreceptive
+paperwork,10,3,2,10,35,155,16,7,1,0,1,1,1,0.0,PHP,3,Aplicação,Organization,Nonreceptive
+Carbon,11,3,4,13,25,104,13,1,0,0,1,1,1,0.0,PHP,5,Framework ou Biblioteca (Web),User,Nonreceptive
