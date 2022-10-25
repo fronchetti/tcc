@@ -7,7 +7,7 @@ Esta pesquisa resultou em um artigo publicado na International Conference on Ope
 https://github.com/fronchetti/OSS-2019.
 
 ## Autores
-Luiz Felipe Fronchetti Dias [Autor] -- luizdias@alunos.utfpr.edu.br <br>
-Igor Scaliante Wiese [Orientador] -- igor@utfpr.edu.br <br>
-Igor Steinmacher [Co-orientador] -- igorfs@utfpr.edu.br <br>
-Gustavo Pinto [Co-orientador] -- ghlp@cin.ufpe.br
+- Autor, Luiz Felipe Fronchetti Dias (luizdias@alunos.utfpr.edu.br)
+- Orientador, Igor Scaliante Wiese (igor@utfpr.edu.br )
+- Co-orientador, Igor Steinmacher (igorfs@utfpr.edu.br)
+- Co-orientador, Gustavo Pinto (ghlp@cin.ufpe.br)
