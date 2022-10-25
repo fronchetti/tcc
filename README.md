@@ -1,4 +1,4 @@
-# Sobre
+## Sobre
 Pacote de replicação para meu trabalho de conclusão de curso em Ciência da Computação pela Universidade Tecnológica Federal do Paraná. 
 
 Título do trabalho: Um estudo exploratório sobre indicadores de receptividade em projetjos de software livre
