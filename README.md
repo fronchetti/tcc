@@ -10,4 +10,3 @@ https://github.com/fronchetti/OSS-2019.
 - Autor, Luiz Felipe Fronchetti Dias (luizdias@alunos.utfpr.edu.br)
 - Orientador, Igor Scaliante Wiese (igor@utfpr.edu.br )
 - Co-orientador, Igor Steinmacher (igorfs@utfpr.edu.br)
-- Co-orientador, Gustavo Pinto (ghlp@cin.ufpe.br)
